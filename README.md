@@ -1,4 +1,4 @@
-Black Hole and Planets Simulation - Netwtonian and General Relativistic Corrections
+Black Hole and Planets Simulation - Newtonian & General Relativistic Corrections
 ====
 
 Description: Simulate multi-body gravitational dynamics comparing Newtonian and General Relativity effects.
